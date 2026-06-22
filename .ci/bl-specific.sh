@@ -1,6 +1,6 @@
-conda activate $HOME/env
+# conda activate $HOME/env
 
-python3 -m pip install git+https://github.com/NSLS2/cditools.git
+# python3 -m pip install git+https://github.com/NSLS2/cditools.git
 
 conda list
 pip list
